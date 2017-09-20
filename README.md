@@ -1,7 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
+A finance calculator app built in react/redux on [Stephen Grider](http://github.com/StephenGrider)'s boilerplate project.
 ### Getting Started
 
 There are two methods for getting started with this repo.
@@ -17,7 +16,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/JacobKarlen/FinanceCalculator/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
