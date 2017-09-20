@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# FinanceCalculator
 
 A finance calculator app built in react/redux on [Stephen Grider](http://github.com/StephenGrider)'s boilerplate project.
 ### Getting Started
